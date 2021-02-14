@@ -11,6 +11,6 @@
      function test () {
      console.log ("Hello)");
 } ```
-6. No experience in programming.
+6. My [GitHub](https://github.com/bulbasaur-d).
 7. **Graduated from NTUU "KPI" named after Sikorsky**.
 8. The level of English is below average.
