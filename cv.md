@@ -8,8 +8,7 @@
 4. **HTML, CSS, JS BEM, GIT**.
 5. ```javascript
      function test () {
-     console.log ("Hello)");
-}```
+     console.log ("Hello)");}```
 6. My [GitHub](https://github.com/bulbasaur-d).
 7. **Graduated from NTUU "KPI" named after Sikorsky**.
 8. The level of English is below average.
