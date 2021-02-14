@@ -1,0 +1,25 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+}
+
+.conteiner{
+    max-width: 1170px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+.header img{
+    max-width: 320px;
+}
+
+.header p{
+    max-width: 500px;
+}
