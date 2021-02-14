@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-around;
     text-align: center;
+    position: relative;
     
 }
 
@@ -22,4 +23,18 @@
 
 .header p{
     max-width: 500px;
+}
+
+h2::before{
+    content: "";
+    border-bottom: 1px solid brown;
+    border-radius: 100px;
+    background-color: brown;
+    width: 180px;
+    height: 10px;
+    position: absolute;
+    top:10px;
+    z-index: -12;
+    opacity: .5;
+       
 }
