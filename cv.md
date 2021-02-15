@@ -13,5 +13,5 @@
      }
 ```
 6. My [GitHub](https://github.com/bulbasaur-d).
-7. **Graduated from NTUU "KPI" named after Sikorsky**.
+7. **Graduated from National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**.
 8. The level of English is below average.
