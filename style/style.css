@@ -21,3 +21,44 @@
     
 }
 
+.contacts{
+    
+}
+
+.contacts__list{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contacts__list-item{
+    list-style: none;
+    padding: 0 15px;
+}
+
+.content{
+
+}
+
+.content__list{
+
+}
+
+.content__list-item{
+
+}
+
+.footer{
+
+}
+
+.footer__nav{
+
+}
+.footer__nav-list{
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer__nav-list-item{
+
+}
