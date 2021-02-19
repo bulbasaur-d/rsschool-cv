@@ -1,7 +1,9 @@
 *, ::before, ::after{
     box-sizing: border-box;
-    
+    margin: 0;
+    padding: 0;
 }
+
 
 .conteiner{
     max-width: 800px;
@@ -18,10 +20,11 @@
 
 .header img{
     max-width: 320px;
-    
+    padding: 15px 0;
 }
 
 .contacts{
+    padding: 15px 0;
     
 }
 
@@ -36,29 +39,33 @@
 }
 
 .content{
-
+    margin-bottom: 15px;
 }
-
+.content h3{
+    text-align: center;
+}
 .content__list{
-
+    
+    line-height: 20px;
 }
 
 .content__list-item{
+    padding: 10px 0;
 
 }
 
 .footer{
-
+    padding: 15px 0;
 }
 
 .footer__nav{
-
+    
 }
 .footer__nav-list{
     display: flex;
     justify-content: space-around;
-
+    list-style: none;
 }
 .footer__nav-list-item{
-
+    text-align: center;
 }
