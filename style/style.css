@@ -65,7 +65,14 @@
     display: flex;
     justify-content: space-around;
     list-style: none;
+    align-items: center;
 }
 .footer__nav-list-item{
     padding: 5px;
+    
+}
+
+.img{
+    height: 50px;
+    width: 50px;
 }
