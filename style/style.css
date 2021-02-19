@@ -59,7 +59,7 @@
 }
 
 .footer__nav{
-    
+    text-align: center;
 }
 .footer__nav-list{
     display: flex;
@@ -67,5 +67,5 @@
     list-style: none;
 }
 .footer__nav-list-item{
-    text-align: center;
+    padding: 5px;
 }
